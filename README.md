@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&lines=%3Chello+I'm%3E" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=300&lines=%3Chello+I'm%3E" />
 </p>
 
 <h1 align="center">Emmanuel Chibwe 🥸</h1>
@@ -72,3 +71,60 @@ I am open to collaborating on impactful projects, especially those involving net
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## Currently Working On
+
+<p align="center">
+  <img src="./media/Xenon_logo.png" alt="XenonCyber Logo" width="100%" height="80"/>
+</p>
+
+### Transient Power Disturbance Processing & Visualization (XCAP)
+
+Working on an industry project with **XenonCyber Dynamics** to build an end-to-end pipeline for processing and visualizing COMTRADE power disturbance data.
+
+The system captures events from SEL relays, transfers them through a PLCNext controller, processes and analyzes them on a server using Python, stores results in InfluxDB, and visualizes them in Grafana dashboards.
+
+---
+
+### Progress
+
+- End-to-end pipeline operational  
+- Automated ingestion and deduplication  
+- Dockerized services for deployment  
+- Live Grafana dashboards for event visualization  
+
+---
+
+### Workflow
+
+<p align="center">
+  <img src="./media/workflow.png" alt="XCAP Workflow Diagram" width="70%"/>
+</p>
+
+---
+
+### Grafana
+
+Grafana dashboards display processed COMTRADE data as interactive visualizations, including three-phase voltage waveforms, current waveforms, and system frequency trends. Events can be selected dynamically, allowing detailed inspection of each disturbance.
+
+<p align="center">
+  <img src="./media/xenon_grafana.gif" alt="Grafana Dashboard Demo" width="100%"/>
+</p>
+
+---
+
+### Future Work
+
+- Performance and reliability improvements  
+- Dashboard enhancements  
+- Alerting and reporting features  
+
+---
+
+### Learn More About XenonCyber
+
+<p align="center">
+  <a href="https://xenoncyber.ca/">https://xenoncyber.ca/</a>
+</p>
