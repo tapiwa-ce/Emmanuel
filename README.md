@@ -77,10 +77,10 @@ I am open to collaborating on impactful projects, especially those involving net
 ## Currently Working On
 
 <p align="center">
-  <img src="./media/Xenon_logo.png" alt="XenonCyber Logo" width="100%" height="80"/>
+  <img src="./media/Xenon_logo.png" alt="XenonCyber Logo" width="100%" height="85"/>
 </p>
 
-### Transient Power Disturbance Processing & Visualization (XCAP)
+### ⚡ Transient Power Disturbance Processing & Visualization (XCAP)
 
 Working on an industry project with **XenonCyber Dynamics** to build an end-to-end pipeline for processing and visualizing COMTRADE power disturbance data.
 
@@ -88,7 +88,7 @@ The system captures events from SEL relays, transfers them through a PLCNext con
 
 ---
 
-### Progress
+### 📈 Progress
 
 - End-to-end pipeline operational  
 - Automated ingestion and deduplication  
@@ -97,15 +97,15 @@ The system captures events from SEL relays, transfers them through a PLCNext con
 
 ---
 
-### Workflow
+### 🔄 Workflow
 
-<p align="center">
+<p>
   <img src="./media/workflow.png" alt="XCAP Workflow Diagram" width="70%"/>
 </p>
 
 ---
 
-### Grafana
+### 📊 Grafana
 
 Grafana dashboards display processed COMTRADE data as interactive visualizations, including three-phase voltage waveforms, current waveforms, and system frequency trends. Events can be selected dynamically, allowing detailed inspection of each disturbance.
 
@@ -125,6 +125,7 @@ Grafana dashboards display processed COMTRADE data as interactive visualizations
 
 ### Learn More About XenonCyber
 
-<p align="center">
-  <a href="https://xenoncyber.ca/">https://xenoncyber.ca/</a>
-</p>
+XenonCyber Dynamics is a Canadian company specializing in operational technology, cybersecurity, and resilient energy systems.
+Click the link below to learn more about them
+
+https://xenoncyber.ca/
