@@ -80,7 +80,7 @@ I am open to collaborating on impactful projects, especially those involving net
 
 ---
 
-<h1 align="center">Currently Working On</h1>
+<h2 align="center">Currently Working On</h2>
 
 <p align="center">
   <img src="./media/Xenon_logo.png" alt="XenonCyber Logo" width="100%" height="85"/>
