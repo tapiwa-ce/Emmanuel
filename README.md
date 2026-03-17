@@ -3,9 +3,12 @@
 </p>
 
 <h1 align="center">Emmanuel Chibwe 🥸</h1>
+<div align="center">
 
+**`Network and Security Specialist | Software Developer`**
+
+</div>
 <p align="center">
-Network and Security Specialist | Software Developer<br/><br/>
 I'm a currently working torwards creating SAAS' and API's while studying for my aws and security+ certs. I'm very keen on working in the cybersecurity industry 
 but also interested in seeing how far my creativity can go with all the other languages and tool at my disposal as a software developer
 <br/><br/>
