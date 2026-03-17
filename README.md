@@ -1,7 +1,11 @@
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&lines=%3Chello+I'm%3E" />
+</p>
+
 <h1 align="center">Emmanuel Chibwe 🥸</h1>
 
 ---
-
 <p align="center">
 Network and Security Specialist | Software Developer<br/><br/>
 I'm a currently working torwards creating SAAS' and API's while studying for my aws and security+ certs. I'm very keen on working in the cybersecurity industry 
