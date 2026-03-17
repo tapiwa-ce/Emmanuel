@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-I'm a currently working torwards getting my AWS and Security+ certs while also developing some mini SAAS' and API's. I'm keen on working in the cybersecurity industry 
+I'm a currently working on getting my AWS and Security+ certs while also developing some mini SAAS' and API's. I'm keen on working in the cybersecurity industry 
 but also interested in seeing how far my creativity can go with all the other languages and tool at my disposal as a software developer
 <br/><br/>
 All of my repositories are part of my continuous learning journey, showcasing the practical skills and technologies I am actively developing.  
@@ -106,7 +106,7 @@ The system captures events from SEL relays, transfers them through a PLCNext con
 ### 🔄 Workflow
 
 <p>
-  <img src="./media/workflow.png" alt="XCAP Workflow Diagram" width="70%"/>
+  <img src="./media/workflow.png" alt="XCAP Workflow Diagram" width="60%"/>
 </p>
 
 ##
