@@ -4,7 +4,6 @@
 
 <h1 align="center">Emmanuel Chibwe 🥸</h1>
 
----
 <p align="center">
 Network and Security Specialist | Software Developer<br/><br/>
 I'm a currently working torwards creating SAAS' and API's while studying for my aws and security+ certs. I'm very keen on working in the cybersecurity industry 
@@ -46,7 +45,7 @@ I am open to collaborating on impactful projects, especially those involving net
 ![Wireless Networks](https://img.shields.io/badge/Wireless%20Networks-%2300C853.svg?style=for-the-badge)
 ![Wireless Technologies](https://img.shields.io/badge/Wireless%20Technologies-%2300BCD4.svg?style=for-the-badge)
 
----
+##
 
 ### 🧰 Languages and Tools
 
@@ -74,7 +73,7 @@ I am open to collaborating on impactful projects, especially those involving net
 
 ---
 
-## Currently Working On
+<h1 align="center">Currently Working On</h1>
 
 <p align="center">
   <img src="./media/Xenon_logo.png" alt="XenonCyber Logo" width="100%" height="85"/>
@@ -86,7 +85,7 @@ Working on an industry project with **XenonCyber Dynamics** to build an end-to-e
 
 The system captures events from SEL relays, transfers them through a PLCNext controller, processes and analyzes them on a server using Python, stores results in InfluxDB, and visualizes them in Grafana dashboards.
 
----
+##
 
 ### 📈 Progress
 
@@ -95,7 +94,7 @@ The system captures events from SEL relays, transfers them through a PLCNext con
 - Dockerized services for deployment  
 - Live Grafana dashboards for event visualization  
 
----
+##
 
 ### 🔄 Workflow
 
@@ -103,7 +102,7 @@ The system captures events from SEL relays, transfers them through a PLCNext con
   <img src="./media/workflow.png" alt="XCAP Workflow Diagram" width="70%"/>
 </p>
 
----
+##
 
 ### 📊 Grafana
 
@@ -113,7 +112,7 @@ Grafana dashboards display processed COMTRADE data as interactive visualizations
   <img src="./media/xenon_grafana.gif" alt="Grafana Dashboard Demo" width="100%"/>
 </p>
 
----
+##
 
 ### Future Work
 
