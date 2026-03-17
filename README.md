@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=39FF14&center=true&vCenter=true&width=160&lines=%3Chello+I'm%3E" />
-</p>
 
 <h1 align="center">Emmanuel Chibwe 🥸</h1>
 <div align="center">
