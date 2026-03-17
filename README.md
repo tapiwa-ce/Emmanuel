@@ -1,10 +1,17 @@
-
 <h1 align="center">Emmanuel Chibwe 🥸</h1>
 <div align="center">
 
 **`Network and Security Specialist | Software Developer`**
 
 </div>
+
+<div align="center" style="margin:0; padding:0; line-height:1;">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=320&lines=%3E+HELLO+WORLD_" 
+    style="display:block; margin:0 auto;"
+  />
+</div>
+
 <p align="center">
 I'm a currently working torwards creating SAAS' and API's while studying for my aws and security+ certs. I'm very keen on working in the cybersecurity industry 
 but also interested in seeing how far my creativity can go with all the other languages and tool at my disposal as a software developer
