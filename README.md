@@ -24,7 +24,7 @@ I am open to collaborating on impactful projects, especially those involving net
 
 <p align="center">
   <a href="https://www.credly.com/badges/e827a341-a285-437d-b7d9-342beff7c029/public_url">
-    <img src="./media/comptia-network.png" alt="CompTIA Network+ Badge" width="90"/>
+    <img src="./media/comptia-network.png" alt="CompTIA Network+ Badge" width="65"/>
   </a>
 </p>
 
