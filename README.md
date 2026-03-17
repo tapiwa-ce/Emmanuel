@@ -105,9 +105,46 @@ The system captures events from SEL relays, transfers them through a PLCNext con
 
 ### 🔄 Workflow
 
-<p>
-  <img src="./media/workflow.png" alt="XCAP Workflow Diagram" width="60%"/>
+<p align="center">
+  <img src="./media/workflow.png" alt="XCAP Workflow Diagram" width="70%"/>
 </p>
+
+<div align="center">
+
+<table>
+<tr>
+<th>PLCNext (Edge)</th>
+<th>Server (Processing)</th>
+<th>Data & Visualization</th>
+</tr>
+
+<tr>
+<td>
+
+- Bash scripting  
+- FTP retrieval  
+
+</td>
+
+<td>
+
+- Python  
+- python-comtrade  
+- NumPy  
+
+</td>
+
+<td>
+
+- InfluxDB  
+- Flux  
+- Grafana   
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ##
 
