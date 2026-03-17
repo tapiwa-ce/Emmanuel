@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-I'm a currently working torwards creating SAAS' and API's while studying for my aws and security+ certs. I'm very keen on working in the cybersecurity industry 
+I'm a currently working torwards getting my AWS and Security+ certs while also developing some mini SAAS' and API's. I'm keen on working in the cybersecurity industry 
 but also interested in seeing how far my creativity can go with all the other languages and tool at my disposal as a software developer
 <br/><br/>
 All of my repositories are part of my continuous learning journey, showcasing the practical skills and technologies I am actively developing.  
