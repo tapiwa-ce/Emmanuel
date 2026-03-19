@@ -14,7 +14,7 @@
 
 <p align="center">
 I'm CompTIA Network+ certified and currently working on getting my AWS and Security+ certs while also developing some mini SAAS' and API's. I'm keen on working in the cybersecurity industry 
-but also interested in seeing how far my creativity can go with all the other languages and tool at my disposal as a software developer
+but also interested in seeing how far my creativity can go with all the other languages and tools at my disposal as a software developer
 <br/><br/>
 All of my repositories are part of my continuous learning journey, showcasing the practical skills and technologies I am actively developing.  
 I am continuously expanding my expertise in networking, cloud systems, and secure application design.  
